@@ -1,0 +1,2 @@
+# AzureSlot
+Slot in Azure
